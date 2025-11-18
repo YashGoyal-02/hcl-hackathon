@@ -109,11 +109,17 @@ Consent checkbox during registration
 
 
 ### API Structure (Backend)
+
 POST /auth/register – Create account
+
 POST /auth/login – Login user
+
 GET /dashboard – Fetch user data
+
 PUT /profile – Update user info
+
 POST /goals/add – Add daily goal
+
 GET /provider/patients – Provider patient list
 
 
